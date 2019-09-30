@@ -37,7 +37,7 @@ HTML &amp; CSS fundamentals
 
 The HTML code is made up of characters that live inside angled 
 brackets - these are called HTML <b>elements</b>. Elements are usually 
-made up of two <b><tags></b>: an opening tag and a closing tag. (The closing tag
+made up of two <b>tags</b>: an opening tag and a closing tag. (The closing tag
 has an extra forward slash in it.) Each HTML elements tells the browser 
 something about how the information that sits between the opening and
 closing tags.
