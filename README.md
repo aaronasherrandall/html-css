@@ -67,3 +67,34 @@ is an abbreviated way of
 specifying which language is 
 used inside of the elements that 
 all browsers understand.
+
+```html
+<html>
+    <head>
+        <title>This is the Title of the Page</title>
+    </head>
+    <body>
+        <h1>This is the Body of the page</h1>
+        <p>Anything within the body of the web page is
+           displayed in the main browser window.</p>
+    </body>
+</html>
+```
+
+## \<body>
+Everything inside this elements is shown inside the main browser window.
+
+## \<head>
+Before the \<body> element you will often see a <head> element.
+This contains information about the page (rather than information 
+that is shown within the main the main part of the browser window).
+You will usually find a \<title> element inside of the \<head> element.
+    
+## \<title>
+The contents of the \<title> element are either shown in the top of
+the browser, above where you usually type the URL of the page you want
+to visit, or on the tab for that page.
+
+
+    
+    
