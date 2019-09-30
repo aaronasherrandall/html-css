@@ -49,5 +49,21 @@ closing tags.
 Attributes provide additional information 
 about the contents of an element. They appear
 on the opening tag of an element and are
-made up of two parts: a name and a value,
+made up of two parts: a <b>name</b> and a <b>value</b>,
 separated by an equals sign.
+
+```html
+<p lang="en-us"> Paragraph in English</p>
+```
+
+Here an attribute called lang is
+used to indicate the language
+used in this element. The value
+of this attribute on this page 
+specifies it is in US English.
+
+The value of the lang attribute
+is an abbreviated way of 
+specifying which language is 
+used inside of the elements that 
+all browsers understand.
