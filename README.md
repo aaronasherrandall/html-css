@@ -69,13 +69,13 @@ used inside of the elements that
 all browsers understand.
 
 ## Body, Head & Title
-## /<BODY>
+
 Everything inside this elements is shown inside the main browser window.
 
-## /<HEAD>
+
 Before the <body> element you will often see a element. This contains information about the page (rather than information that is shown within the main the main part of the browser window). You will usually find a <title> element inside of the <head> element.
 
-## /<TITLE>
+
 The contents of the <title> element are either shown in the top of the browser, above where you usually type the URL of the page you want to visit, or on the tab for that page.
 
 HTML stands for Hypertext Markup Language. The Hypertext part refers to the fact that HTML allows you to create links that allow visitors to move from one page to another quickly and easily. A markup language allows you to annotate text, and these annotations provide additional meaning to the contents of a document. If you think of a web page, we add code around the original text we want to display and the browser then uses the code to display the page correctly. So the tags we add are markup.
